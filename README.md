@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Kai Jensen
+
+This is a portfolio of sample case studies that I have completed.
+
+| [Bike Share Case Study] | Using data from a bike share service I explore how different types of users use the service differently. |
+| --- | --- |
+
+
 
 You can use the [editor on GitHub](https://github.com/kaijensen1/kaijensen1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
